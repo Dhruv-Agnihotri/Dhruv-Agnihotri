@@ -23,17 +23,17 @@
 
 ### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,c++,javascript,bash" />
 </p>
 
 ### 🧪 Testing & Automation  
 <p>
-  <img src="https://skillicons.dev/icons?i=selenium,pytest,postman" />
+  <img src="https://skillicons.dev/icons?i=selenium,pytest" />
 </p>
 
 ### ⚙️ Tools & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
 </p>
 
 ### 🗄️ Databases  
@@ -63,8 +63,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Agnihotri&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-Agnihotri&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
 </p>
 
 ---
