@@ -23,13 +23,22 @@
 
 ### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,C++,javascript,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,bash" />
 </p>
 
 ### 🧪 Testing & Automation  
+
 <p>
-  <img src="https://skillicons.dev/icons?i=selenium,pytest,pandas,numpy,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=selenium,python,githubactions" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
 
 ### ⚙️ Tools & Platforms  
 <p>
