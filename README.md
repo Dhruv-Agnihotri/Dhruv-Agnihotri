@@ -23,12 +23,12 @@
 
 ### 💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c++,javascript,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,C++,javascript,bash" />
 </p>
 
 ### 🧪 Testing & Automation  
 <p>
-  <img src="https://skillicons.dev/icons?i=selenium,pytest" />
+  <img src="https://skillicons.dev/icons?i=selenium,pytest,pandas,numpy,matplotlib" />
 </p>
 
 ### ⚙️ Tools & Platforms  
