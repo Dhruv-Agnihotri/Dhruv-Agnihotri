@@ -72,10 +72,10 @@
 ## 📫 Connect With Me  
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/dhruv1604">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:Dhruvagnihotri12@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
