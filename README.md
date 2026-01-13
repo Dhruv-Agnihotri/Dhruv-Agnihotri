@@ -1,33 +1,34 @@
-<!-- Profile Banner -->
+<!-- ===================== PROFILE BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Dhruv%20👋&fontSize=40&fontAlignY=35&desc=Automation%20Test%20Developer%20|%20Python%20|%20Problem%20Solver&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dhruv%20Agnihotri&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Automation%20Test%20Developer%20|%20Python%20|%20Test%20Engineering&descAlignY=55"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-🚀 **Automation Test Developer** with a passion for building reliable, scalable, and efficient testing systems.  
-🧠 Strong interest in **system design, clean code, and automation frameworks**.  
-⚙️ I enjoy turning **manual pain points into automated solutions**.  
+🚀 **Automation Test Developer** with a strong focus on building **reliable, scalable, and maintainable testing systems**.  
+🧠 Deep interest in **system design, clean code, and automation frameworks**.  
+⚙️ I enjoy turning **manual pain points into automated solutions** that save time and reduce risk.
 
 - 💼 Currently working as **Automation Test Developer**
 - 🧪 Experience with **UI, API & Functional Testing**
 - 🐍 Primary language: **Python**
-- 🛠️ Love working with tools that improve developer productivity
-- 📈 Focused on continuous learning & real-world problem solving
+- 🛠️ Love tools that improve **developer productivity**
+- 📈 Focused on **continuous learning & real-world problem solving**
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Tech Stack
 
-### 💻 Languages  
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,bash" />
 </p>
 
-### 🧪 Testing & Automation  
+---
 
+### 🧪 Testing & Automation
 <p>
   <img src="https://skillicons.dev/icons?i=selenium,python,githubactions" />
 </p>
@@ -39,20 +40,23 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
+---
 
-### ⚙️ Tools & Platforms  
+### ⚙️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
 </p>
 
-### 🗄️ Databases  
+---
+
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
 
-## 🧠 What I’m Good At  
+## 🧠 What I’m Good At
 
 ✔️ Test Automation Framework Design  
 ✔️ Writing clean, maintainable test scripts  
@@ -62,41 +66,67 @@
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
-🚧 *Pinned repositories coming soon…*  
-> Automation frameworks, utility scripts, and system-level experiments.
+> 🚀 Selected work in automation, testing frameworks, and tooling
+
+### 🧪 Automation Frameworks
+- 🔹 **Python Automation Framework (PyTest)**
+  - Scalable framework with fixtures, reporting, and modular structure  
+  - ⏳ *Repository coming soon*
+
+### ⚙️ Utilities & Tooling
+- 🔹 **Test Utilities Toolkit**
+  - Reusable helpers for logging, data handling, configuration & environment setup  
+  - ⏳ *Repository coming soon*
+
+### 🧠 Experiments & Learning
+- 🔹 **System-Level Experiments**
+  - Automation experiments, performance checks, scripting & PoCs  
+  - ⏳ *Repository coming soon*
+
+> 📌 These sections are designed so you can **drop links in later without redesigning anything**.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dhruv-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Agnihotri&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/dhruv1604">
+  <a href="https://www.linkedin.com//in/dhruv1604/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:Dhruvagnihotri12@gmail.com">
+  <a href="mailto:dhruvagnihotri12@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-## 🧩 Philosophy  
+## 🧩 Philosophy
 
 > *“Automation isn’t about replacing humans — it’s about freeing them to solve better problems.”*
 
 ---
 
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
