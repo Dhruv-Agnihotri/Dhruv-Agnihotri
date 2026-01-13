@@ -85,7 +85,7 @@
   - Automation experiments, performance checks, scripting & PoCs  
   - ⏳ *Repository coming soon*
 
-> 📌 These sections are designed so you can **drop links in later without redesigning anything**.
+
 
 ---
 
