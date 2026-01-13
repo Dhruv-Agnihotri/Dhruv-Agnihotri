@@ -1,6 +1,6 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Dhruv%20Agnihotri&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Automation%20Test%20Developer%20|%20Python%20|%20Test%20Engineering&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Dhruv%20Agnihotri&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Automation%20Test%20Developer%20|%20Python%20|%20Test%20Engineering&descAlignY=55"/>
 </p>
 
 ---
@@ -91,19 +91,14 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dhruv-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Dhruv-Agnihotri&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Agnihotri&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
 
 ---
 
@@ -128,5 +123,6 @@
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
 </p>
+
